@@ -1,1 +1,2 @@
 # simple suckless
+requires: tmux
